@@ -1,0 +1,6 @@
+framework module Pods_MDBFlightStatusUITests {
+  umbrella header "Pods-MDBFlightStatusUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
